@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
