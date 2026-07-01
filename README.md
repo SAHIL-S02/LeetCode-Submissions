@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0120-triangle) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +80,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
