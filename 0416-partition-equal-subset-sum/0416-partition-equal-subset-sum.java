@@ -1,7 +1,10 @@
 class Solution {
     public boolean check(int n, int k, int[] nums, Boolean memo[][]){
-        if(n < 0){
-            return false;
+        if (n == 0) {
+            return nums[0] == k;
+        }
+        if(k == 0){
+            return true;
         }
         if(k == nums[n]){
             return true;
