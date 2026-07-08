@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
