@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -113,4 +116,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
