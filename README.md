@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -128,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
