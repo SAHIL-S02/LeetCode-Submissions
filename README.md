@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
