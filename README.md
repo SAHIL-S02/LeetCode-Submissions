@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
