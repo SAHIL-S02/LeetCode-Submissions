@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
+| [0516-longest-palindromic-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
