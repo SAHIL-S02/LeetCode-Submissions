@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
