@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
