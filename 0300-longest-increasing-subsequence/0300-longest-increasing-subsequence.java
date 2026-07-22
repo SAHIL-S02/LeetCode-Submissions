@@ -1,34 +1,23 @@
 class Solution {
-    public int check(int n, int[] nums, int prevIdx, int dp[][]){
-        if(n == nums.length){
-            return 0;
-        }
-        if(dp[n][prevIdx+1] != -1){
-            return dp[n][prevIdx+1];
-        }
-        if(prevIdx == -1){
-            int exc = check(n + 1, nums, prevIdx, dp);
-            int inc = 1 + check(n + 1, nums, n, dp);
-            return dp[n][prevIdx+1] = Math.max(inc, exc);
-        }
-        if(dp[n][prevIdx+1] != -1){
-            return dp[n][prevIdx+1];
-        }
-        if(nums[n] > nums[prevIdx]){
-            int exc = check(n + 1, nums, prevIdx, dp);
-            int inc = 1 + check(n + 1, nums, n, dp);
-            return dp[n][prevIdx+1] = Math.max(inc, exc);
-        }
-        else{
-            return dp[n][prevIdx+1] = check(n+1, nums, prevIdx, dp);
-        }
-    }
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int dp[][] = new int[n][n+1];
-        for(int arr[] : dp){
-            Arrays.fill(arr, -1);
+        int tail[] = new int[nums.length];
+        int size = 0;
+        for(int num : nums){
+            int left = 0;
+            int right = size;
+            while(left < right){
+                int mid = left + (right - left)/2;
+                if(tail[mid] < num){
+                    left = mid +1;
+                }else{
+                    right = mid;
+                }
+            }
+            tail[left] = num;
+            if(left == size){
+                size++;
+            }
         }
-        return check(0, nums, -1, dp);
+        return size;
     }
 }
