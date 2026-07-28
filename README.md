@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
