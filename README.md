@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
