@@ -4,7 +4,7 @@ class Solution {
         HashSet<List<Integer>> hs = new HashSet<>();
         Arrays.sort(nums);
         for(int i = 0; i < nums.length; i++){
-            if(i > 0 && nums[i] == nums[i-1]) continue ;
+            // if(i > 0 && nums[i] == nums[i-1]) continue ;
             int a = i+1;
             int b = nums.length-1;
             while(a < b){
