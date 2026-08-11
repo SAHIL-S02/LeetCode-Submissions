@@ -1,13 +1,22 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int[] map = new int[3];
-        for(int i : nums){
-            map[i]++;
-        }
-        int a = 0;
-        for(int i = 0; i < 3; i++){
-            for(int j = 0; j < map[i]; j++){
-                nums[a++] = i; 
+        int low = 0;
+        int mid = 0;
+        int hig = nums.length -1;
+        while (mid <= hig){
+            if(nums[mid] == 0){
+                int temp = nums[mid];
+                nums[mid] = nums[low];
+                nums[low] = temp;
+                low++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
+            }else{
+                int temp = nums[mid];
+                nums[mid] = nums[hig];
+                nums[hig] = temp;
+                hig--;
             }
         }
     }
