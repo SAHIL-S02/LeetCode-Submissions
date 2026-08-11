@@ -500,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
