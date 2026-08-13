@@ -20,7 +20,7 @@ class Solution {
                 }
                 low++;
             }
-            if(hm.size() < k || hm.size() == k){
+            if(hm.size() <= k){
                 re = Math.max(re, high - low +1);
             }
         }
