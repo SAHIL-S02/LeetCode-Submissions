@@ -1,28 +1,26 @@
-import java.util.ArrayList;
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        ArrayList<String> substrings = new ArrayList();
-        
-        if (s.length() < 2){return s.length();}
-        String temp = "";
-        int mx= 0;
-        for (int i = 0; i < s.length(); i++){
-            String ch = Character.toString(s.charAt(i));
-            if(!(temp.contains(ch))){
-                temp += ch;
+        int low = 0;
+        int re = Integer.MIN_VALUE;
+        HashMap<Character, Integer> hm = new HashMap<>();
+        for(int high = 0; high < s.length(); high++){
+            char curr = s.charAt(high);
+            if(!hm.containsKey(curr)){
+                hm.put(curr, 1);
+            }else{
+                hm.put(curr, hm.get(curr)+1);
             }
-            else{
-                temp = temp.substring(temp.indexOf(ch)+1);
-                temp += ch;
+            while (hm.get(curr) > 1){
+                char temp = s.charAt(low);
+                if(hm.get(temp) == 1){
+                    hm.remove(temp);
+                }else{
+                    hm.put(temp, hm.get(temp)-1);
+                }
+                low++;
             }
-            System.out.println(temp);
-            substrings.add(temp);
+            re = Math.max(re, high - low + 1);
         }
-        for (int i = 0; i < substrings.size(); i++){
-            if (substrings.get(i).length() > mx){
-                mx = substrings.get(i).length();
-            }
-        }
-        return mx;
+        return re == Integer.MIN_VALUE? s.length() : re;
     }
 }
