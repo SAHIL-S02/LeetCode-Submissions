@@ -3,10 +3,13 @@ class Solution {
         int low = 0;
         int length = Integer.MAX_VALUE;
         String re = "";
+        int req = 0;
+        int formed = 0;
         HashMap<Character, Integer> og = new HashMap<>();
         for (char c : t.toCharArray()) {
             og.put(c, og.getOrDefault(c, 0) + 1);
         }
+        req = og.size();
         HashMap<Character, Integer> hm = new HashMap<>();
         for(int high = 0; high < s.length(); high++){
             char curr = s.charAt(high);
@@ -15,14 +18,11 @@ class Solution {
             }else{
                 hm.put(curr, hm.get(curr)+1);
             }
-            boolean flg = true;
-            for(char key : og.keySet()){
-                if(og.get(key) > hm.getOrDefault(key, 0)){
-                    flg = false;
-                    break;
-                }
+            if (og.containsKey(curr)
+                    && hm.get(curr).intValue() == og.get(curr).intValue()) {
+                formed++;
             }
-            while(flg && low <= high){
+            while(req == formed){
                 int currL = high - low +1;
                 if(currL < length){
                     re = s.substring(low, high+1);
@@ -32,11 +32,9 @@ class Solution {
 
                 hm.put(remove, hm.get(remove) - 1);
                 low++;
-                for(char key : og.keySet()){
-                    if(og.get(key) > hm.getOrDefault(key, 0)){
-                        flg = false;
-                        break;
-                    }
+                if (og.containsKey(remove)
+                        && hm.get(remove) < og.get(remove)) {
+                    formed--;
                 }
             }
         }
