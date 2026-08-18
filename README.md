@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -548,4 +552,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
