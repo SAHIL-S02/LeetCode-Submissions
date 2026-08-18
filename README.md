@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -544,4 +547,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
