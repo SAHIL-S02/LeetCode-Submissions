@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
