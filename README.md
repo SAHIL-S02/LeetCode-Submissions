@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
@@ -561,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
@@ -568,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
