@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
