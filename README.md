@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
