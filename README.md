@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0072-edit-distance) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0143-reorder-list) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
