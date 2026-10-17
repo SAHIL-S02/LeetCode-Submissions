@@ -1,29 +1,30 @@
 class Solution {
     public int[] dailyTemperatures(int[] temp) {
         Stack<Integer> st = new Stack<>();
-        ArrayList<Integer> list = new ArrayList<>();
+        Stack<Integer> list = new Stack<>();
         int i = temp.length - 1;
         st.push(i);
-        list.addFirst(0);
+        list.push(0);
         i--;
         while(i >= 0){
             if(st.isEmpty()){
-                list.addFirst(0);
+                list.push(0);
                 st.push(i);
                 i--;
                 continue;
             }
             if(temp[st.peek()] > temp[i]){
-                list.addFirst(st.peek() - i);
+                list.push(st.peek() - i);
                 st.push(i);
                 i--;
             }else{
                 st.pop();
             }
         }
-        return list.stream()
-           .mapToInt(Integer::intValue)
-           .toArray();
-
+        int[] res = new int[list.size()];
+        for(int j = 0; j < res.length; j++){
+            res[j] = list.pop();
+        }
+        return res;
     }
 }
