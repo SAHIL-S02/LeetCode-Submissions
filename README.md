@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0383-ransom-note](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
