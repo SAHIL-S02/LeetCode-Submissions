@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
