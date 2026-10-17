@@ -1,5 +1,8 @@
 class Solution {
     public int[] dailyTemperatures(int[] temp) {
+        if (temp.length == 0) {
+            return new int[0];
+        }
         Stack<Integer> st = new Stack<>();
         int[] res = new int[temp.length];
         int i = temp.length - 1;
