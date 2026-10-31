@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
