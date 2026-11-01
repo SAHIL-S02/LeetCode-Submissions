@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0494-target-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
