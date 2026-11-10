@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1260-shift-2d-grid) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAHIL-S02/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
